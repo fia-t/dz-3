@@ -1,0 +1,35 @@
+{
+  "name": "Elon Musk",
+  "age": "51",
+  "gender": "male",
+  "address": {
+    "street": "3500 Deer Creek Road",
+    "city": "Palo Alto",
+    "state": "CA",
+    "zip": "94304"
+  },
+  "courses": ["Math", "English", "History"],
+  "grades": {
+    "Math": "90",
+    "English": "100",
+    "History": "92"
+  },
+  "is_enrolled": true,
+  "date_of_birth": "June 28, 1971",
+  "contact_info": {
+    "email": "johndoe@example.com",
+    "phone": "123-456-7890"
+  },
+  "achievements": {
+    "companies": {
+      "space": "SpaceX",
+      "finance": "PayPal",
+      "car": "Tesla Inc."
+    },
+    "wives": {
+      "wive1": "Justin Musk",
+      "wive2": "Talulah Rayli",
+      "wive3": "Talulah Rayli"
+    }
+  }
+}
