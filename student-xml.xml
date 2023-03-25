@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<student name="object student">
+  <name>Elon Musk</name>
+  <age>51</age>
+  <gender>male</gender>
+  <address>
+    <street>3500 Deer Creek Road</street>
+    <city>Palo Alto</city>
+    <state>CA</state>
+    <zip>94304</zip>
+  </address>
+  <courses>
+    <course>Math</course>
+    <course>English</course>
+    <course>History</course>
+  </courses>
+  <grades>
+    <Math>90</Math>
+    <English>100</English>
+    <History>92</History>
+  </grades>
+  <is_enrolled>true</is_enrolled>
+  <date_of_birth>June 28, 1971</date_of_birth>
+  <contact_info>
+    <email>johndoe@example.com</email>
+    <phone>123-456-7890</phone>
+  </contact_info>
+  <achievements>
+    <companies>
+      <space>SpaceX</space>
+      <finance>PayPal</finance>
+      <car>Tesla Inc.</car>
+    </companies>
+    <wives>
+      <wive1>Justin Musk</wive1>
+      <wive2>Talulah Rayli</wive2>
+      <wive3>Talulah Rayli</wive3>
+    </wives>
+  </achievements>
+</student>
